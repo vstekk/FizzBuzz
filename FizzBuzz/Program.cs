@@ -1,17 +1,32 @@
 ﻿int limit;
 string input;
 
+#region Input
+
 do
 {
     Console.Clear();
     Console.WriteLine("Write a number and press [Enter]");
     input = Console.ReadLine() ?? string.Empty;
 } while (!int.TryParse(input, out limit));
+Console.Clear();
 
+#endregion
 
-for (var i = 1; i <= limit; i++)
+#region MAIN
+
+ResolveFizzBuzz(limit);
+
+#endregion
+
+#region Local Methods
+
+void ResolveFizzBuzz(int limit)
 {
-    Console.WriteLine(AsFizzBuzz(i));
+    for (var i = 1; i <= limit; i++)
+    {
+        Console.WriteLine(AsFizzBuzz(i));
+    }
 }
 
 string AsFizzBuzz(int number)
@@ -29,3 +44,5 @@ bool IsDivisibleBy(int number, int divisor)
 {
     return number % divisor == 0;
 }
+
+#endregion
