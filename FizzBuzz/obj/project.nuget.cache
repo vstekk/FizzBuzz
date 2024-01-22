@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "enxXbPSwluqfiglGx+SJ+2Yo4Kl+lxTA1uHFDM7HSkfMkJDEJdxHrl0ljZaZVMtyFjOHA9q+VvF7Zb5DBalC4Q==",
+  "dgSpecHash": "EP9baSMDxd2H6uNu0mxlocBIlYKuBOiGo/utZ5grloKOKM2IyUC7qEGUpWTfozHZISs+cmEcnKbgYyN+djYpaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jakub\\RiderProjects\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+  "projectFilePath": "C:\\Users\\jakub\\RiderProjects\\JetSchool\\FizzBuzz\\FizzBuzz.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jakub\\RiderProjects\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+      "projectUniqueName": "C:\\Users\\jakub\\RiderProjects\\JetSchool\\FizzBuzz\\FizzBuzz.csproj",
       "projectName": "FizzBuzz",
-      "projectPath": "C:\\Users\\jakub\\RiderProjects\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+      "projectPath": "C:\\Users\\jakub\\RiderProjects\\JetSchool\\FizzBuzz\\FizzBuzz.csproj",
       "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jakub\\RiderProjects\\FizzBuzz\\FizzBuzz\\obj\\",
+      "outputPath": "C:\\Users\\jakub\\RiderProjects\\JetSchool\\FizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
