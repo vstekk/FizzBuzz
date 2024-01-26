@@ -1,8 +1,6 @@
 ﻿int limit;
 string input;
 
-#region Input
-
 do
 {
     Console.Clear();
@@ -11,15 +9,7 @@ do
 } while (!int.TryParse(input, out limit));
 Console.Clear();
 
-#endregion
-
-#region MAIN
-
 ResolveFizzBuzz(limit);
-
-#endregion
-
-#region Local Methods
 
 void ResolveFizzBuzz(int limit)
 {
@@ -44,5 +34,3 @@ bool IsDivisibleBy(int number, int divisor)
 {
     return number % divisor == 0;
 }
-
-#endregion
